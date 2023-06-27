@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9593a83c-9414-4ceb-afa1-66a8a750f5a4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
