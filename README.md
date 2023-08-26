@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,azure,bash,bootstrap,css,d3,express,flask,firebase,html,java,js,linux,mongodb,netlify, nodejs,postgres,postman,powershell,py,react,selenium,vscode,webpack" />
+  </a>
+</p>
+
 <!--
 **thekatsmeowkode/thekatsmeowkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
