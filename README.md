@@ -8,13 +8,17 @@
 
 <p align="center">
 Check out my most recent project:
-
-### Child Care Copilot
+</p>
+<p align="center">
+<strong>Child Care Copilot</strong>
 </p>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WgzFrc5MAUs
-" target="_blank"><img src="http://img.youtube.com/vi/WgzFrc5MAUs/0.jpg" 
-alt="Image of a computer program ChildCare Copilot. Logo is a baby flying on a bottle" width="240" height="180" border="10" /></a>
+<div align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WgzFrc5MAUs" target="_blank">
+<img src="http://img.youtube.com/vi/WgzFrc5MAUs/0.jpg" 
+alt="Image of a computer program ChildCare Copilot. Logo is a baby flying on a bottle" width="240" height="180" border="10" />
+</a>
+</div>
 
 
 <p align="center">
