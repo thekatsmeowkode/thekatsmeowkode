@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Check out my most recent project:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WgzFrc5MAUs
+" target="_blank"><img src="http://img.youtube.com/vi/WgzFrc5MAUs/0.jpg" 
+alt="Image of a computer program ChildCare Copilot. Logo is a baby flying on a bottle" width="240" height="180" border="10" /></a>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,azure,bash,bootstrap,css,d3,express,flask,firebase,html,java,js,linux,mongodb,netlify, nodejs,postgres,postman,powershell,py,react,selenium,vscode,webpack" />
