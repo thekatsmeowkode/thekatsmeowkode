@@ -10,11 +10,9 @@
   <li>🔭 I’m currently working on beginning to contribute to open source projects</li>
   <li> 🌱 I’m currently learning Microsoft Azure, Powershell</li>
   <li>👯 I’m looking to collaborate on beginner level open source projects like fixing accessibility issues or writing documentation</li>
-  <li>🤔 I’m looking for help with killing it at my internship</li>
   <li>💬 Ask me about the Ada Developer Academy</li>
   <li>📫 How to reach me: email, LinkedIn</li>
   <li>😄 Pronouns: she/her </li>
-  <li>⚡ Fun fact: I almost had a black belt in Tae Kwon Do</li>
 </ul>
 
 <p align="center">
